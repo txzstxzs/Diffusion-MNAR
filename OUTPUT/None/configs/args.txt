@@ -1,0 +1,200 @@
+==> torch version: 1.12.1+cu113
+==> cudnn version: 8302
+==> Cmd:
+['C:\\Users\\PC123\\anaconda3\\lib\\site-packages\\ipykernel_launcher.py', '-f', 'C:\\Users\\PC123\\AppData\\Roaming\\jupyter\\runtime\\kernel-85a809ff-5e64-455e-8d14-4ba746b9d084.json']
+==> args:
+  config_file: ./Config/SP500.yaml
+  cudnn_deterministic: False
+  gpu: 0
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: None
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT\None
+  seed: 10
+  tensorboard: False
+  train: True
+==> torch version: 1.12.1+cu113
+==> cudnn version: 8302
+==> Cmd:
+['C:\\Users\\PC123\\anaconda3\\lib\\site-packages\\ipykernel_launcher.py', '-f', 'C:\\Users\\PC123\\AppData\\Roaming\\jupyter\\runtime\\kernel-5ab42d89-0652-458e-9bbb-938ca2e8e6a6.json']
+==> args:
+  config_file: ./Config/SP500.yaml
+  cudnn_deterministic: False
+  gpu: 0
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: None
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT\None
+  seed: 10
+  tensorboard: False
+  train: True
+==> torch version: 1.12.1+cu113
+==> cudnn version: 8302
+==> Cmd:
+['C:\\Users\\PC123\\anaconda3\\lib\\site-packages\\ipykernel_launcher.py', '-f', 'C:\\Users\\PC123\\AppData\\Roaming\\jupyter\\runtime\\kernel-6873a00f-457d-4f21-a311-617ae7288af2.json']
+==> args:
+  config_file: ./Config/SP500.yaml
+  cudnn_deterministic: False
+  gpu: 0
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: None
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT\None
+  seed: 10
+  tensorboard: False
+  train: True
+==> torch version: 1.12.1+cu113
+==> cudnn version: 8302
+==> Cmd:
+['C:\\Users\\PC123\\anaconda3\\lib\\site-packages\\ipykernel_launcher.py', '-f', 'C:\\Users\\PC123\\AppData\\Roaming\\jupyter\\runtime\\kernel-6873a00f-457d-4f21-a311-617ae7288af2.json']
+==> args:
+  config_file: ./Config/SP500.yaml
+  cudnn_deterministic: False
+  gpu: 0
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: None
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT\None
+  seed: 10
+  tensorboard: False
+  train: True
+==> torch version: 1.12.1+cu113
+==> cudnn version: 8302
+==> Cmd:
+['C:\\Users\\PC123\\anaconda3\\lib\\site-packages\\ipykernel_launcher.py', '-f', 'C:\\Users\\PC123\\AppData\\Roaming\\jupyter\\runtime\\kernel-56806b58-42e3-4b51-b6e0-85007a993c11.json']
+==> args:
+  config_file: ./Config/SP500.yaml
+  cudnn_deterministic: False
+  gpu: 0
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: None
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT\None
+  seed: 10
+  tensorboard: False
+  train: True
+==> torch version: 1.12.1+cu113
+==> cudnn version: 8302
+==> Cmd:
+['C:\\Users\\PC123\\anaconda3\\lib\\site-packages\\ipykernel_launcher.py', '-f', 'C:\\Users\\PC123\\AppData\\Roaming\\jupyter\\runtime\\kernel-e1e22aa6-39bc-4314-8f38-7c7790875bf2.json']
+==> args:
+  config_file: ./Config/SP500.yaml
+  cudnn_deterministic: False
+  gpu: 0
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: None
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT\None
+  seed: 10
+  tensorboard: False
+  train: True
+==> torch version: 1.12.1+cu113
+==> cudnn version: 8302
+==> Cmd:
+['C:\\Users\\PC123\\anaconda3\\lib\\site-packages\\ipykernel_launcher.py', '-f', 'C:\\Users\\PC123\\AppData\\Roaming\\jupyter\\runtime\\kernel-1478f2c0-96eb-437e-a924-6fd36cba45c0.json']
+==> args:
+  config_file: ./Config/SP500.yaml
+  cudnn_deterministic: False
+  gpu: 0
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: None
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT\None
+  seed: 10
+  tensorboard: False
+  train: True
+==> torch version: 1.12.1+cu113
+==> cudnn version: 8302
+==> Cmd:
+['C:\\Users\\PC123\\anaconda3\\lib\\site-packages\\ipykernel_launcher.py', '-f', 'C:\\Users\\PC123\\AppData\\Roaming\\jupyter\\runtime\\kernel-8b1e71c9-29c5-4124-b30f-27c9f7464f23.json']
+==> args:
+  config_file: ./Config/SP500.yaml
+  cudnn_deterministic: False
+  gpu: 0
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: None
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT\None
+  seed: 10
+  tensorboard: False
+  train: True
+==> torch version: 1.12.1+cu113
+==> cudnn version: 8302
+==> Cmd:
+['C:\\Users\\PC123\\anaconda3\\lib\\site-packages\\ipykernel_launcher.py', '-f', 'C:\\Users\\PC123\\AppData\\Roaming\\jupyter\\runtime\\kernel-f897e03c-8823-4dbf-8f8a-d0558c208856.json']
+==> args:
+  config_file: ./Config/SP500.yaml
+  cudnn_deterministic: False
+  gpu: 0
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: None
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT\None
+  seed: 10
+  tensorboard: False
+  train: True
+==> torch version: 1.12.1+cu113
+==> cudnn version: 8302
+==> Cmd:
+['C:\\Users\\PC123\\anaconda3\\lib\\site-packages\\ipykernel_launcher.py', '-f', 'C:\\Users\\PC123\\AppData\\Roaming\\jupyter\\runtime\\kernel-9eb09e56-d9a5-4b83-83be-db6bf26ca040.json']
+==> args:
+  config_file: ./Config/SP500.yaml
+  cudnn_deterministic: False
+  gpu: 0
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: None
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT\None
+  seed: 10
+  tensorboard: False
+  train: True
